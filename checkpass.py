@@ -2,7 +2,7 @@ import requests
 import hashlib
 from pathlib import Path
 
-path = Path("drag_here_pass_folder")
+path = Path("dragHerePass")
 
 
 def request_api_data(query_char):
